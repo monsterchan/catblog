@@ -8,9 +8,9 @@
   "yuqueConfig": {
     "baseUrl": "https://www.yuque.com/api/v2",
     "login": "swimmingCat",
-    "repo": "natluu",
+    "repo": "shenghuo",
     "mdNameFormat": "title",
-    "postPath": "source/_posts/yuque"
+    "postPath": "source/_posts/"
   },
   "scripts": {
     "sync": "yuque-hexo sync",
