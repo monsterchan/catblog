@@ -6,11 +6,15 @@
     "version": "3.9.0"
   },
   "yuqueConfig": {
-    "baseUrl": "https://www.yuque.com/api/v2",
+    "postPath": "source/_posts/yuque",
+    "cachepath": "yuque.json",
+    "mdNameFormat": "title",
+    "adapter": "hexo",
+    "concurrency": 5,
+    "baseUrl": "https://www.yuque.com/api/v2/",
     "login": "swimmingCat",
     "repo": "shenghuo",
-    "mdNameFormat": "title",
-    "postPath": "source/_posts/"
+    "onlyPublished": false
   },
   "scripts": {
     "sync": "yuque-hexo sync",
