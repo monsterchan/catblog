@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1cb1271d-e917-477c-8895-f321d9c8cf48" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -51,8 +52,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="18" column="81" lean-forward="true" selection-start-line="18" selection-start-column="81" selection-end-line="18" selection-end-column="81" />
+            <state relative-caret-position="411">
+              <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -69,8 +70,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="21" column="16" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="16" />
+            <state relative-caret-position="115">
+              <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -119,8 +120,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="553" />
-    <option name="y" value="55" />
+    <option name="x" value="377" />
+    <option name="y" value="56" />
     <option name="width" value="1651" />
     <option name="height" value="1027" />
   </component>
@@ -286,7 +287,7 @@
       <workItem from="1562289134447" duration="613000" />
       <workItem from="1562302938307" duration="2457000" />
       <workItem from="1562338384067" duration="3397000" />
-      <workItem from="1562369055218" duration="28590000" />
+      <workItem from="1562369055218" duration="28971000" />
     </task>
     <task id="LOCAL-00001" summary="idea上第一次提交">
       <created>1562170339161</created>
@@ -320,7 +321,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42557000" />
+    <option name="totallyTimeSpent" value="42938000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -332,10 +333,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="468" y="61" width="1651" height="1027" extended-state="0" />
-    <editor active="true" />
+    <frame x="377" y="56" width="1651" height="1027" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2658705" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2658705" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -348,7 +348,7 @@
       <window_info id="Learn" order="10" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3281075" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26203808" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26203808" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -685,15 +685,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="21" column="16" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="16" />
+        <state relative-caret-position="115">
+          <caret line="21" column="10" lean-forward="true" selection-start-line="21" selection-start-column="10" selection-end-line="21" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="18" column="81" lean-forward="true" selection-start-line="18" selection-start-column="81" selection-end-line="18" selection-end-column="81" />
+        <state relative-caret-position="411">
+          <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
         </state>
       </provider>
     </entry>
