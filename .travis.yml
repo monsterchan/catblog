@@ -24,6 +24,4 @@ script:
 after_script:
 - echo 部署完成！
 branches:
-  only:
-  - master
-monsterchan/catblog:
+  only: - master
