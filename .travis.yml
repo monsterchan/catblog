@@ -26,7 +26,6 @@ script:
 - git init
 - git add ./
 - git commit -m "update_from_travis"
-- git push
 after_script:
 - echo 部署完成！
 branches:
