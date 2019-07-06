@@ -7,7 +7,6 @@
   },
   "yuqueConfig": {
     "postPath": "source/_posts/yuque",
-    "cachepath": "yuque.json",
     "mdNameFormat": "title",
     "adapter": "markdown",
     "concurrency": 5,
@@ -15,9 +14,9 @@
     "login": "swimmingCat",
     "repo": "shenghuo"
   },
-
   "scripts": {
-    "sync": "yuque-hexo sync&&git add .&&git commit -m 'quyue_sync_push'&& git push",
+    "sync": "yuque-hexo sync",
+    "publish": "git add .&&git commit -m 'yuque_push'&&git push",
     "clean:yuque": "yuque-hexo clean",
     "deploy": "npm run sync &&hexo clean && hexo g -d"
   },
@@ -41,6 +40,7 @@
     "shell-quote": "^1.6.1"
   },
   "devDependencies": {
-    "hexo-util": "^0.6.3"
+    "hexo-util": "^0.6.3",
+    "yuque-hexo": "^1.6.1"
   }
 }
