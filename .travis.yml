@@ -5,10 +5,12 @@ cache:
   - node_modules
 before_install:
 - echo 配置ssh信息
-- chmod 600 ~/.ssh/id_rsa_travis
+- ls
+- cd .ssh
+- ls
+- chmod 600 .ssh/id_rsa_travis
 - eval $(ssh-agent)
-- ssh-add ~/.ssh/id_rsa_travis
-- cp .travis/ssh_config ~/.ssh/config
+- ssh-add id_rsa_travis
 - echo 配置git信息
 - git config --global user.name "monsterchan"
 - git config --global user.email "$646597336@qq.com"
