@@ -20,12 +20,6 @@ install:
 script:
 - echo 开始部署...
 - npm run deploy
-- cd ..
-- ls
-- echo 提交到git...
-- git init
-- git add ./
-- git commit -m "update_from_travis"
 after_script:
 - echo 部署完成！
 branches:

@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cb1271d-e917-477c-8895-f321d9c8cf48" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/yuque.json" beforeDir="false" afterPath="$PROJECT_DIR$/yuque.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -48,11 +49,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+            <state relative-caret-position="111">
+              <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -75,11 +76,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="8" column="9" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="9" />
+            <state relative-caret-position="450">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -120,16 +121,16 @@
         <option value="$PROJECT_DIR$/themes/Sakura/source/css/sharejs.css" />
         <option value="$PROJECT_DIR$/themes/Sakura/source/css/style.css" />
         <option value="$PROJECT_DIR$/_config.yml" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/.travis/ssh_config" />
         <option value="$PROJECT_DIR$/.ssh/ssh_config" />
         <option value="$PROJECT_DIR$/.travis.yml" />
+        <option value="$PROJECT_DIR$/package.json" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="219" />
-    <option name="y" value="25" />
+    <option name="x" value="242" />
+    <option name="y" value="36" />
     <option name="width" value="1651" />
     <option name="height" value="1027" />
   </component>
@@ -290,7 +291,7 @@
       <workItem from="1562289134447" duration="613000" />
       <workItem from="1562302938307" duration="2457000" />
       <workItem from="1562338384067" duration="3397000" />
-      <workItem from="1562369055218" duration="32360000" />
+      <workItem from="1562369055218" duration="33384000" />
     </task>
     <task id="LOCAL-00001" summary="idea上第一次提交">
       <created>1562170339161</created>
@@ -324,7 +325,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46327000" />
+    <option name="totallyTimeSpent" value="47351000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -336,10 +337,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="493" y="26" width="1651" height="1027" extended-state="0" />
+    <frame x="242" y="36" width="1651" height="1027" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2658705" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2658705" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -352,13 +353,13 @@
       <window_info id="Learn" order="10" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3281075" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.26203808" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26203808" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3281075" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3493841" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.3493841" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="11" weight="0.3253796" />
@@ -673,10 +674,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="497">
-          <caret line="85" column="16" selection-start-line="85" selection-start-column="10" selection-end-line="85" selection-end-column="16" />
+        <state relative-caret-position="450">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="6" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -687,17 +688,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        <state relative-caret-position="497">
+          <caret line="85" column="16" selection-start-line="85" selection-start-column="10" selection-end-line="85" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.travis.yml">
+    <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="9" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="9" />
+        <state relative-caret-position="111">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
         </state>
       </provider>
     </entry>
