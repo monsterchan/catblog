@@ -17,7 +17,7 @@
   },
 
   "scripts": {
-    "sync": "yuque-hexo sync&&git add .&&git commit -m ''&& git push",
+    "sync": "yuque-hexo sync&&git add .&&git commit -m 'quyue_sync_push'&& git push",
     "clean:yuque": "yuque-hexo clean",
     "deploy": "npm run sync &&hexo clean && hexo g -d"
   },
