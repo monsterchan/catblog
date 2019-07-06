@@ -19,19 +19,14 @@ install:
 - npm install
 script:
 - echo 开始部署...
+- npm run deploy
+- echo 提交到git...
 - git init
 - git add .
 - git commit -m "update_from_travis"
-- git push --force --quiet "https://${GH_TOKEN}@${GH_REF}" master:master  # GH_TOKEN是在Travis中配置token的名稱
-- npm run deploy
+- git push
 after_script:
 - echo 部署完成！
 branches:
   only:
   - master
-env:
-   global:
-  - GH_REF: github.com/monsterchan/monsterchan.catblog                                      # 设置 github 项目仓库地址
-    - GH_username: <monsterchan>                                               # 设置 github 用户名
-    - GH_useremail: <646597336@qq.com>                                             # 设置 github 绑定邮箱地址
-
