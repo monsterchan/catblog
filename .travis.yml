@@ -20,7 +20,7 @@ install:
 script:
 - echo 开始部署...
 - npm run deploy
-- cd ../..
+- cd ..
 - ls
 - echo 提交到git...
 - git init
