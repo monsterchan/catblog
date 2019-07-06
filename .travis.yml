@@ -23,6 +23,3 @@ after_script:
 branches:
   only:
   - master
-monsterchan/catblog:
-- openssl aes-256-cbc -K $encrypted_c689b32daa6d_key -iv $encrypted_c689b32daa6d_iv
-  -in .travis/id_rsa_travis.enc -out .ssh/id_rsa_travis -d
