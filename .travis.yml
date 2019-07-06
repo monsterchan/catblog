@@ -12,31 +12,31 @@ before_install:
 - cp .travis/ssh_config ~/.ssh/config
 - git config --global user.name "monsterchan"
 - git config --global user.email "$646597336@qq.com"
-before_script:
-- echo 正在清空缓存静态文件...
-- hexo clean
-- echo 正在生成静态文件...
-- hexo g
-- cd ./public
-- ls -l
+#before_script:
+#- echo 正在清空缓存静态文件...
+#- hexo clean
+#- echo 正在生成静态文件...
+#- hexo g
+#- cd ./public
+#- ls -l
 install:
   - npm install hexo-cli -g
   - npm install
 script:
 - echo 开始部署...
 - npm run deploy
-- git init
-- git add .
-- git commit -m "update_in_travis.yml"
-- git push   "https://${GH_TOKEN}@${GH_REF}" master:master
+#- git init
+#- git add .
+#- git commit -m "update_in_travis.yml"
+#- git push   "https://${GH_TOKEN}@${GH_REF}" master:master
 
 after_script:
 - echo 部署完成！
 branches:
   only:
   - master
-env:
-  global:
- - GH_REF: github.com/monsterchan/catblog
- - GH_username: "<monsterchan>"
- - GH_useremail: "<646597336@qq.com>"
+#env:
+#  global:
+# - GH_REF: github.com/monsterchan/monsterchan.github.io
+# - GH_username: "<monsterchan>"
+# - GH_useremail: "<646597336@qq.com>"
