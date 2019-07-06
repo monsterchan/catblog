@@ -1,5 +1,5 @@
 {
-  "name": "chenkequan.com",
+  "name": "chan-site",
   "version": "0.0.0",
   "private": true,
   "hexo": {
@@ -9,17 +9,17 @@
     "postPath": "source/_posts/yuque",
     "cachepath": "yuque.json",
     "mdNameFormat": "title",
-    "adapter": "hexo",
+    "adapter": "markdown",
     "concurrency": 5,
-    "baseUrl": "https://www.yuque.com/api/v2/",
+    "baseUrl": "https://www.yuque.com/api/v2",
     "login": "swimmingCat",
-    "repo": "shenghuo",
-    "onlyPublished": false
+    "repo": "shenghuo"
   },
+
   "scripts": {
-    "sync": "yuque-hexo sync",
+    "sync": "yuque-hexo sync&&git add .&&git commit - m 'yuque' && git push",
     "clean:yuque": "yuque-hexo clean",
-    "deploy": "npm run sync && hexo clean && hexo g -d"
+    "deploy": "npm run sync &&hexo clean && hexo g -d"
   },
   "dependencies": {
     "hexo": "^3.9.0",
