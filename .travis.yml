@@ -4,9 +4,8 @@ cache:
   directories:
   - node_modules
 before_install:
-- openssl aes-256-cbc -K $encrypted_c689b32daa6d_key -iv $encrypted_c689b32daa6d_iv
-    -in GH_TOKEN\=b0fd5ef894d55e23b26701352cc210245018e2e0 -out .travis/id_rsa_travis -d
-- chmod 600 ~/.ssh/id_rsa
+- echo 配置ssh信息
+- chmod 600 ~/.ssh/id_rsa_travis
 - eval $(ssh-agent)
 - ssh-add ~/.ssh/id_rsa_travis
 - cp .travis/ssh_config ~/.ssh/config
