@@ -8,7 +8,7 @@ before_install:
 - ls
 - cd .ssh
 - ls
-- chmod 600 .ssh/id_rsa_travis
+- chmod 600 id_rsa_travis
 - eval $(ssh-agent)
 - ssh-add id_rsa_travis
 - echo 配置git信息
