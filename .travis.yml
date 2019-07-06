@@ -4,9 +4,16 @@ cache:
   directories:
   - node_modules
 before_install:
-- echo 安装hexo相关环境...
+- echo 解密开始...
 - openssl aes-256-cbc -K $encrypted_c689b32daa6d_key -iv $encrypted_c689b32daa6d_iv
-    -in .travis/id_rsa_6blog.enc -out .travis/id_rsa_6blog -d
+    -in .travis/id_rsa.enc -out .travis/id_rsa -d
+- echo 解密结束...
+- echo 配置ssh信息
+- cp  .travis/id_rsa ~/.ssh/id_rsa
+- chmod 600 ~/.ssh/id_rsa
+- eval $(ssh-agent)
+- ssh-add ~/.ssh/id_rsa
+- cp .travis/ssh_config ~/.ssh/config
 - echo 配置git信息
 - git config --global user.name "monsterchan"
 - git config --global user.email "$646597336@qq.com"
@@ -21,6 +28,3 @@ after_script:
 branches:
   only:
   - master
-monsterchan/catblog:
-- openssl aes-256-cbc -K $encrypted_c689b32daa6d_key -iv $encrypted_c689b32daa6d_iv
-  -in .travis/id_rsa_6blog.enc -out .travis/id_rsa_6blog -d
