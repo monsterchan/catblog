@@ -6,7 +6,7 @@
     "version": "3.9.0"
   },
   "yuqueConfig": {
-    "postPath": "source/_posts/yuque",
+    "postPath": "source/_posts/",
     "mdNameFormat": "title",
     "adapter": "markdown",
     "concurrency": 5,
