@@ -19,9 +19,9 @@ install:
 - npm install --save hexo-deployer-git
 - npm install --save-dev hexo-util
 - npm install -g yuque-hexo@1.4.3
-- npm install hexo-generator-sitemap --save
-- npm install hexo-generator-baidu-sitemap --save
-- npm install hexo-abbrlink --save
+#- npm install hexo-generator-sitemap --save
+#- npm install hexo-generator-baidu-sitemap --save
+#- npm install hexo-abbrlink --save
 - npm install
 script:
 - echo 开始部署...

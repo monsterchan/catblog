@@ -77,11 +77,11 @@ function bot_ui_ini() {
         secondpart = function () {
             botui.message.add({
                 delay: 1500,
-                content: "目前就读于上海财经大学"
+                content: "目前就读于家里蹲学"
             }).then(function () {
                 botui.message.add({
                     delay: 1500,
-                    content: "向往技术却误入商科，但后来喜欢上了经济学…"
+                    content: "向往技术却技术烂…"
                 }).then(function () {
                     botui.message.add({
                         delay: 1200,

@@ -19,7 +19,6 @@ hexo-theme-sakura主题 [English document](https://github.com/honjun/hexo-theme-
 
 基于WordPress主题[Sakura](https://github.com/mashirozx/Sakura/)修改成Hexo的主题。
 
-[demo预览](https://sakura.hojun.cn)
 
 正在开发中......
 
@@ -46,7 +45,7 @@ hexo-theme-sakura主题 [English document](https://github.com/honjun/hexo-theme-
 ## 赞赏作者
 如果喜欢hexo-theme-sakura主题，可以考虑资助一下哦~非常感激！
 
-[paypal](https://www.paypal.me/hojuncn) | [Alipay 支付宝](https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/custom/donate/AliPayQR.jpg) | [WeChat Pay 微信支付](https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/custom/donate/WeChanSQ.jpg)
+ | [Alipay 支付宝](https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/custom/donate/AliPayQR.jpg) | [WeChat Pay 微信支付](https://cdn.jsdelivr.net/gh/honjun/cdn@1.6/img/custom/donate/WeChanSQ.jpg)
 
 ## 未完善的使用教程
 
@@ -199,7 +198,6 @@ donate:
 
 # 首页视频地址为https://cdn.jsdelivr.net/gh/honjun/hojun@1.2/Unbroken.mp4，配置如下 【改】
 movies:
-  url: https://cdn.jsdelivr.net/gh/honjun/hojun@1.2
   # 多个视频用逗号隔开，随机获取。支持的格式目前已知MP4,Flv。其他的可以试下，不保证有用
   name: Unbroken.mp4
 
