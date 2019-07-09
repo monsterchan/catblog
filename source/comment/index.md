@@ -1,10 +1,10 @@
 ---
 title: comment
-date: 2018-12-20 23:13:48
+date: 2019-6-20 23:13:48
 keywords: 留言板
 description: 
 comments: true
-photos: https://cdn.jsdelivr.net/gh/monsterchan/cdn@1.4/img/banner/comment.jpg
+photos: https://cdn.jsdelivr.net/gh/monsterchan/cdn@1.6/img/banner/comment.jpg
 ---
 {% raw %}
 <div class="toc-container">

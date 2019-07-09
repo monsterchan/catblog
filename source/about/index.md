@@ -4,7 +4,7 @@ date: 2018-12-12 22:14:36
 keywords: 关于
 description: 
 comments: false
-photos: https://cdn.jsdelivr.net/gh/honjun/cdn@1.4/img/banner/about.jpg
+photos: https://cdn.jsdelivr.net/gh/monsterchan/cdn@1.6/img/banner/about.jpg
 ---
 {% raw %}
 <div class="moe-mashiro" style="text-align:center; font-size: 50px; margin-bottom: 20px;">[桜と猫のchan]</div>
@@ -14,7 +14,7 @@ photos: https://cdn.jsdelivr.net/gh/honjun/cdn@1.4/img/banner/about.jpg
   </p>
   <h4>
   与&nbsp;<ruby>
-  Mashiro&nbsp;<rp>
+  Chan&nbsp;<rp>
   （</rp>
   <rt>
   真（ま）白（しろ）</rt>
@@ -38,11 +38,11 @@ function bot_ui_ini() {
     }).then(function () {
         botui.message.add({
             delay: 1100,
-            content: "这里是 Mashiro"
+            content: "我是 Chan"
         }).then(function () {
             botui.message.add({
                 delay: 1100,
-                content: "一个可爱的蓝孩子~"
+                content: "一个萌萌的蓝孩子~"
             }).then(function () {
                 botui.action.button({
                     delay: 1600,
@@ -89,11 +89,11 @@ function bot_ui_ini() {
                     }).then(function () {
                         botui.message.add({
                             delay: 1500,
-                            content: "主攻 R 语言和 Python，略懂 STATA，偶尔也折腾 HTML/CSS/JavaScript/PHP"
+                            content: "主攻 Java语言和 Python，略懂 Vue，偶尔也折腾 HTML/CSS/JavaScript"
                         }).then(function () {
                             botui.message.add({
                                 delay: 1500,
-                                content: "研究的方向，是经济/金融方向的数据分析（data science）以及机器学习（machine learning）"
+                                content: "研究的方向，是生物的数据分析（data science）以及机器学习（machine learning）和人工智能"
                             }).then(function () {
                                 botui.message.add({
                                     delay: 1800,
@@ -102,8 +102,8 @@ function bot_ui_ini() {
                                     botui.action.button({
                                         delay: 1100,
                                         action: [{
-                                            text: "为什么叫Mashiro呢？ 🤔",
-                                            value: "why-mashiro"
+                                            text: "为什么叫chan呢？ 🤔",
+                                            value: "Magichan"
                                         }]
                                     }).then(function (a) {
                                         thirdpart()
@@ -118,7 +118,7 @@ function bot_ui_ini() {
         thirdpart = function () {
             botui.message.add({
                 delay: 1E3,
-                content: "Mashiro以及站名都来自一部动画，因为和主角有一样的爱好~ 如果有兴趣可以找找首页上的视频~"
+                content: "chan以及站名都来自臆想，因为和主角有一样的爱好~ 如果有兴趣可以找找首页上的视频~"
             }).then(function () {
                 botui.action.button({
                     delay: 1500,
