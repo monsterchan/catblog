@@ -117,9 +117,10 @@ aplayer:
   volume: 0.7
   mutex: true
 
+
 #Valine评论配置
 # Valine
 valine: true
-v_appId: GyC3NzMvd0hT9Yyd2hYIC0MN-gzGzoHsz
-v_appKey: mgOpfzbkHYqU92CV4IDlAUHQ
+v_appId: abjgEzjHH9MKHgJmfwjKRuxY-gzGzoHsz
+v_appKey: QnyxXfkHI82ehTHQOmv275Jx
 
