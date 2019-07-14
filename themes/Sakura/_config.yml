@@ -100,9 +100,9 @@ donate:
 
   #首页视频地址为，配置如下
 movies:
-  url: https://cdn.jsdelivr.net/gh/monsterchan/cdn@1.6
+  url: https://cdn.jsdelivr.net/gh/monsterchan/cdn@1.6.1/movies/
   # 多个视频用逗号隔开，随机获取。支持的格式目前已知MP4,Flv。其他的可以试下，不保证有用
-  name: Unbroken.mp4
+  name: Final.mp4
 
  #左下角aplayer播放器配置 主要改id和server这两项，修改详见[aplayer文档] 
 aplayer: 
