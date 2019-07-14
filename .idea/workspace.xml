@@ -2,223 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cb1271d-e917-477c-8895-f321d9c8cf48" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/live2d_models/cat/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/cat/assets/moc/tororo.2048/texture_00.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/cat/assets/moc/tororo.moc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/cat/assets/mtn/00_idle.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/cat/assets/mtn/01.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/cat/assets/mtn/02.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/cat/assets/mtn/03.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/cat/assets/mtn/04.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/cat/assets/mtn/05.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/cat/assets/mtn/06.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/cat/assets/mtn/07.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/cat/assets/mtn/08.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/cat/assets/tororo.model.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/cat/assets/tororo.pose.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/cat/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/cat/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/chuyin/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/chuyin/assets/miku.model.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/chuyin/assets/miku.physics.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/chuyin/assets/moc/miku.2048/texture_00.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/chuyin/assets/moc/miku.moc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/chuyin/assets/mtn/miku_idle_01.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/chuyin/assets/mtn/miku_m_01.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/chuyin/assets/mtn/miku_m_02.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/chuyin/assets/mtn/miku_m_03.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/chuyin/assets/mtn/miku_m_04.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/chuyin/assets/mtn/miku_m_05.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/chuyin/assets/mtn/miku_m_06.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/chuyin/assets/mtn/miku_shake_01.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/chuyin/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/chuyin/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/duanfa/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/duanfa/assets/Epsilon2.1.model.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/duanfa/assets/Epsilon2.1.physics.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/duanfa/assets/exp/f01.exp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/duanfa/assets/exp/f02.exp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/duanfa/assets/exp/f03.exp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/duanfa/assets/exp/f04.exp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/duanfa/assets/exp/f05.exp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/duanfa/assets/exp/f06.exp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/duanfa/assets/exp/f07.exp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/duanfa/assets/exp/f08.exp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/duanfa/assets/moc/Epsilon2.1.2048/texture_00.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/duanfa/assets/moc/Epsilon2.1.moc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/duanfa/assets/mtn/Epsilon2.1_idle_01.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/duanfa/assets/mtn/Epsilon2.1_m_01.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/duanfa/assets/mtn/Epsilon2.1_m_02.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/duanfa/assets/mtn/Epsilon2.1_m_03.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/duanfa/assets/mtn/Epsilon2.1_m_04.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/duanfa/assets/mtn/Epsilon2.1_m_05.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/duanfa/assets/mtn/Epsilon2.1_m_06.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/duanfa/assets/mtn/Epsilon2.1_m_07.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/duanfa/assets/mtn/Epsilon2.1_m_08.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/duanfa/assets/mtn/Epsilon2.1_m_sp_01.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/duanfa/assets/mtn/Epsilon2.1_m_sp_02.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/duanfa/assets/mtn/Epsilon2.1_m_sp_03.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/duanfa/assets/mtn/Epsilon2.1_m_sp_04.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/duanfa/assets/mtn/Epsilon2.1_m_sp_05.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/duanfa/assets/mtn/Epsilon2.1_shake_01.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/duanfa/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/duanfa/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/kj/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/kj/assets/exp/f00.exp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/kj/assets/moc/z16.1024/texture_00.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/kj/assets/moc/z16.256/texture_00.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/kj/assets/moc/z16.512/texture_00.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/kj/assets/moc/z16.moc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/kj/assets/mtn/idle.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/kj/assets/z16.model.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/kj/assets/z16.physics.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/kj/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/kj/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/01/assets/exp/f01.exp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/01/assets/exp/f02.exp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/01/assets/exp/f03.exp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/01/assets/exp/f04.exp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/01/assets/exp/f05.exp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/01/assets/exp/f06.exp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/01/assets/exp/f07.exp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/01/assets/exp/f08.exp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/01/assets/haru01.model.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/01/assets/haru01.physics.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/01/assets/haru01.pose.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/01/assets/moc/haru01.1024/texture_00.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/01/assets/moc/haru01.1024/texture_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/01/assets/moc/haru01.1024/texture_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/01/assets/moc/haru01.moc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/01/assets/mtn/flickHead_00.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/01/assets/mtn/idle_00.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/01/assets/mtn/idle_01.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/01/assets/mtn/idle_02.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/01/assets/mtn/pinchIn_00.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/01/assets/mtn/pinchOut_00.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/01/assets/mtn/shake_00.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/01/assets/mtn/tapBody_00.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/01/assets/mtn/tapBody_01.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/01/assets/mtn/tapBody_02.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/01/assets/mtn/tapBody_03.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/01/assets/mtn/tapBody_04.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/01/assets/mtn/tapBody_05.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/01/assets/mtn/tapBody_06.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/01/assets/mtn/tapBody_07.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/01/assets/mtn/tapBody_08.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/01/assets/mtn/tapBody_09.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/01/assets/snd/flickHead_00.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/01/assets/snd/pinchIn_00.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/01/assets/snd/pinchOut_00.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/01/assets/snd/shake_00.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/01/assets/snd/tapBody_00.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/01/assets/snd/tapBody_01.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/01/assets/snd/tapBody_02.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/01/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/02/assets/exp/f01.exp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/02/assets/exp/f02.exp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/02/assets/exp/f03.exp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/02/assets/exp/f04.exp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/02/assets/exp/f05.exp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/02/assets/exp/f06.exp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/02/assets/exp/f07.exp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/02/assets/exp/f08.exp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/02/assets/haru02.model.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/02/assets/haru02.physics.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/02/assets/haru02.pose.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/02/assets/moc/haru02.1024/texture_00.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/02/assets/moc/haru02.1024/texture_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/02/assets/moc/haru02.1024/texture_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/02/assets/moc/haru02.moc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/02/assets/mtn/flickHead_00.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/02/assets/mtn/idle_00.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/02/assets/mtn/idle_01.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/02/assets/mtn/idle_02.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/02/assets/mtn/pinchIn_00.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/02/assets/mtn/pinchOut_00.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/02/assets/mtn/shake_00.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/02/assets/mtn/tapBody_00.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/02/assets/mtn/tapBody_01.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/02/assets/mtn/tapBody_02.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/02/assets/mtn/tapBody_03.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/02/assets/mtn/tapBody_04.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/02/assets/mtn/tapBody_05.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/02/assets/mtn/tapBody_06.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/02/assets/mtn/tapBody_07.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/02/assets/mtn/tapBody_08.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/02/assets/mtn/tapBody_09.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/02/assets/snd/flickHead_00.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/02/assets/snd/pinchIn_00.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/02/assets/snd/pinchOut_00.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/02/assets/snd/shake_00.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/02/assets/snd/tapBody_00.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/02/assets/snd/tapBody_01.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/02/assets/snd/tapBody_02.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/02/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/nvpu/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/exp/f01.exp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/exp/f02.exp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/exp/f03.exp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/exp/f04.exp.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/moc/shizuku.1024/texture_00.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/moc/shizuku.1024/texture_01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/moc/shizuku.1024/texture_02.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/moc/shizuku.1024/texture_03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/moc/shizuku.1024/texture_04.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/moc/shizuku.1024/texture_05.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/moc/shizuku.moc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/mtn/flickHead_00.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/mtn/flickHead_01.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/mtn/flickHead_02.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/mtn/idle_00.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/mtn/idle_01.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/mtn/idle_02.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/mtn/pinchIn_00.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/mtn/pinchIn_01.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/mtn/pinchIn_02.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/mtn/pinchOut_00.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/mtn/pinchOut_01.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/mtn/pinchOut_02.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/mtn/shake_00.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/mtn/shake_01.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/mtn/shake_02.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/mtn/tapBody_00.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/mtn/tapBody_01.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/mtn/tapBody_02.mtn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/shizuku.model.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/shizuku.physics.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/shizuku.pose.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/snd/flickHead_00.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/snd/flickHead_01.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/snd/flickHead_02.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/snd/pinchIn_00.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/snd/pinchIn_01.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/snd/pinchIn_02.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/snd/pinchOut_00.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/snd/pinchOut_01.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/snd/pinchOut_02.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/snd/shake_00.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/snd/shake_01.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/snd/shake_02.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/snd/tapBody_00.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/snd/tapBody_01.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/assets/snd/tapBody_02.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/live2d_models/study/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/my.bat" beforeDir="false" afterPath="$PROJECT_DIR$/my.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/_posts/安康-2019年7月3日.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/安康-2019年7月3日.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/lab/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/lab/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/rss/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/rss/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/source/tags/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/tags/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Sakura/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Sakura/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Sakura/layout/_partial/footer.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Sakura/layout/_partial/footer.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Sakura/layout/layout.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Sakura/layout/layout.ejs" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -264,10 +48,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="815">
+            <state relative-caret-position="-175">
               <caret line="128" column="13" selection-start-line="128" selection-start-column="13" selection-end-line="128" selection-end-column="13" />
             </state>
           </provider>
@@ -294,11 +78,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/themes/Sakura/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="30">
               <caret line="1" column="21" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my.bat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
@@ -384,10 +177,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="665" />
-    <option name="y" value="63" />
+    <option name="x" value="902" />
+    <option name="y" value="46" />
     <option name="width" value="1333" />
-    <option name="height" value="970" />
+    <option name="height" value="967" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -465,17 +258,6 @@
               <item name="catblog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="source" type="462c0819:PsiDirectoryNode" />
               <item name="rss" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="catblog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="catblog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="catblog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="catblog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="Sakura" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -628,7 +410,7 @@
       <workItem from="1562980704543" duration="27000" />
       <workItem from="1562995050317" duration="653000" />
       <workItem from="1563027834775" duration="6042000" />
-      <workItem from="1563065013675" duration="4157000" />
+      <workItem from="1563065013675" duration="5003000" />
     </task>
     <task id="LOCAL-00001" summary="idea上第一次提交">
       <created>1562170339161</created>
@@ -662,7 +444,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106540000" />
+    <option name="totallyTimeSpent" value="107386000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -674,7 +456,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="665" y="63" width="1333" height="970" extended-state="0" />
+    <frame x="1082" y="51" width="1333" height="970" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21523958" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -695,7 +478,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3280899" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.2715311" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.38875598" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="11" weight="0.3253796" />
@@ -823,13 +606,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my.bat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" selection-start-line="2" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/live2d_models/nvpu/02/assets/exp/f03.exp.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -924,6 +700,13 @@
     <entry file="file://$PROJECT_DIR$/live2d_models/nvpu/01/assets/moc/haru01.1024/texture_02.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/themes/Sakura/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-955">
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/安康-2019年7月3日.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -934,24 +717,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="815">
-          <caret line="128" column="13" selection-start-line="128" selection-start-column="13" selection-end-line="128" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/Sakura/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-955">
-          <caret line="25" column="29" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/Sakura/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="1" column="21" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-175">
+          <caret line="128" column="13" selection-start-line="128" selection-start-column="13" selection-end-line="128" selection-end-column="13" />
         </state>
       </provider>
     </entry>
