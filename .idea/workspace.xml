@@ -3,11 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1cb1271d-e917-477c-8895-f321d9c8cf48" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/source/_posts/安康-2019年7月3日.md" beforeDir="false" afterPath="$PROJECT_DIR$/source/_posts/安康-2019年7月3日.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Sakura/layout/_partial/headertop.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Sakura/layout/_partial/headertop.ejs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/themes/Sakura/layout/_widget/common-article.ejs" beforeDir="false" afterPath="$PROJECT_DIR$/themes/Sakura/layout/_widget/common-article.ejs" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -57,10 +53,28 @@
         <entry file="file://$PROJECT_DIR$/source/_posts/安康-2019年7月3日.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="420">
-                <caret line="14" column="108" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="108" />
+              <first_editor relative-caret-position="300">
+                <caret line="16" column="534" lean-forward="true" selection-start-line="16" selection-start-column="534" selection-end-line="16" selection-end-column="534" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3840">
+              <caret line="128" column="13" selection-start-line="128" selection-start-column="13" selection-end-line="128" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my.bat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -151,10 +165,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="91" />
-    <option name="y" value="252" />
+    <option name="x" value="100" />
+    <option name="y" value="61" />
     <option name="width" value="1734" />
-    <option name="height" value="994" />
+    <option name="height" value="1021" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -346,7 +360,7 @@
       <workItem from="1563065013675" duration="11986000" />
       <workItem from="1563107746031" duration="105000" />
       <workItem from="1563152626082" duration="606000" />
-      <workItem from="1578630576235" duration="1290000" />
+      <workItem from="1578630576235" duration="3000000" />
     </task>
     <task id="LOCAL-00001" summary="idea上第一次提交">
       <created>1562170339161</created>
@@ -380,7 +394,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="116370000" />
+    <option name="totallyTimeSpent" value="118080000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -392,7 +406,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="91" y="252" width="1734" height="994" extended-state="1" />
+    <frame x="100" y="61" width="1734" height="1021" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16786142" />
@@ -414,7 +428,7 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3280899" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.36976743" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.35287485" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="11" weight="0.3253796" />
@@ -484,9 +498,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="idea上第三次提交" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/live2d_models/nvpu/02/assets/exp/f04.exp.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/live2d_models/nvpu/02/assets/exp/f05.exp.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -566,13 +577,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1715">
-          <caret line="128" column="13" selection-start-line="128" selection-start-column="13" selection-end-line="128" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/Sakura/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-955">
@@ -584,13 +588,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
           <caret line="1" column="21" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.travis.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="19" column="34" selection-start-line="19" selection-start-column="34" selection-end-line="19" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -616,13 +613,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="35" column="30" selection-start-line="35" selection-start-column="30" selection-end-line="35" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my.bat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="2" selection-start-line="2" selection-end-line="3" />
         </state>
       </provider>
     </entry>
@@ -695,11 +685,35 @@
     <entry file="file://$PROJECT_DIR$/live2d_models/nvpu/01/assets/exp/f01.exp.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/source/CNAME">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-90">
+          <caret line="18" column="39" lean-forward="true" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3840">
+          <caret line="128" column="13" selection-start-line="128" selection-start-column="13" selection-end-line="128" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="38" lean-forward="true" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/安康-2019年7月3日.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="420">
-            <caret line="14" column="108" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="108" />
+          <first_editor relative-caret-position="300">
+            <caret line="16" column="534" lean-forward="true" selection-start-line="16" selection-start-column="534" selection-end-line="16" selection-end-column="534" />
           </first_editor>
           <second_editor />
         </state>
