@@ -1,5 +1,5 @@
 {
-  "name": "chan-site",
+  "name": "catblog",
   "version": "0.0.1",
   "private": true,
   "hexo": {
@@ -40,5 +40,10 @@
   "devDependencies": {
     "hexo-util": "^0.6.3",
     "yuque-hexo": "^1.6.1"
-  }
+  },
+  "description": "hexo blog",
+  "main": "index.js",
+  "repository": "git@github.com:monsterchan/catblog.git",
+  "author": "chenkequan <707718837@qq.com>",
+  "license": "MIT"
 }

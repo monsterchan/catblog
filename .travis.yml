@@ -16,10 +16,10 @@ before_install:
 - git config --global user.email "$646597336@qq.com"
 install:
 - npm install hexo-cli -g
-- npm install --save hexo-deployer-git
+#- npm install --save hexo-deployer-git
 - npm install --save-dev hexo-util
 #- npm install -g yuque-hexo@1.4.3
-- npm install --save hexo-helper-live2d
+#- npm install --save hexo-helper-live2d
 #- npm install hexo-generator-sitemap --save
 #- npm install hexo-generator-baidu-sitemap --save
 #- npm install hexo-abbrlink --save
