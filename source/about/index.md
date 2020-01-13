@@ -1,23 +1,23 @@
 ---
-title: about
+title: about me
 date: 2018-12-12 22:14:36
 keywords: 关于
-description: 
+description: 期待您走进我的世界里，一起追寻更好的自己！
 comments: false
 photos: https://cdn.jsdelivr.net/gh/monsterchan/cdn@1.6/img/banner/about.jpg
 ---
 {% raw %}
-<div class="moe-mashiro" style="text-align:center; font-size: 50px; margin-bottom: 20px;">[桜と猫のchan]</div>
+<div class="moe-mashiro" style="text-align:center; font-size: 50px; margin-bottom: 20px;">[沐猫と陈]</div>
 <div id="hello-mashiro" class="popcontainer" style="min-height: 300px; padding: 2px 6px 4px; background-color: rgba(242, 242, 242, 0.5); border-radius: 10px;">
   <center>
   <p>
   </p>
   <h4>
-  与&nbsp;<ruby>
-  Chan&nbsp;<rp>
+  与<ruby>
+  陈<rp>
   （</rp>
   <rt>
-  真（ま）白（しろ）</rt>
+  世界太大，大的人海茫茫，世界太小，小的恰使我们相遇！</rt>
   <rp>
   ）</rp>
   </ruby>
@@ -34,11 +34,11 @@ function bot_ui_ini() {
     var botui = new BotUI("hello-mashiro");
     botui.message.add({
         delay: 800,
-        content: "Hi, there111👋"
+        content: "Hi, Welcome you come into my life!👋"
     }).then(function () {
         botui.message.add({
             delay: 1100,
-            content: "我是 Chan"
+            content: "我是 陈"
         }).then(function () {
             botui.message.add({
                 delay: 1100,
@@ -71,7 +71,7 @@ function bot_ui_ini() {
         end = function () {
             botui.message.add({
                 delay: 600,
-                content: "![...](https://view.moezx.cc/images/2018/05/06/a1c4cd0452528b572af37952489372b6.md.jpg)"
+                content: "![qieman.jpg](https://i.loli.net/2020/01/11/dEGZwQtXrMykCFq.jpg)"
             })
         },
         secondpart = function () {
@@ -93,7 +93,7 @@ function bot_ui_ini() {
                         }).then(function () {
                             botui.message.add({
                                 delay: 1500,
-                                content: "研究的方向，是生物的数据分析（data science）以及机器学习（machine learning）和人工智能"
+                                content: "研究的方向，是数据分析（data science）以及机器学习（machine learning）和人工智能"
                             }).then(function () {
                                 botui.message.add({
                                     delay: 1800,
@@ -102,8 +102,8 @@ function bot_ui_ini() {
                                     botui.action.button({
                                         delay: 1100,
                                         action: [{
-                                            text: "为什么叫chan呢？ 🤔",
-                                            value: "Magichan"
+                                            text: "为什么叫陈呢？ 🤔",
+                                            value: "why-name"
                                         }]
                                     }).then(function (a) {
                                         thirdpart()
@@ -118,12 +118,12 @@ function bot_ui_ini() {
         thirdpart = function () {
             botui.message.add({
                 delay: 1E3,
-                content: "chan以及站名都来自臆想，因为和主角有一样的爱好~ 如果有兴趣可以找找首页上的视频~"
+                content: "陈以及站名都来自臆想，因为和主角有一样的爱好~ 如果有兴趣可以找找首页上的视频~"
             }).then(function () {
                 botui.action.button({
                     delay: 1500,
                     action: [{
-                        text: "为什么是白猫呢？ 🤔",
+                        text: "为什么是沐猫呢？ 🤔",
                         value: "why-cat"
                     }]
                 }).then(function (a) {
@@ -155,11 +155,11 @@ function bot_ui_ini() {
         fifthpart = function () {
             botui.message.add({
                 delay: 1E3,
-                content: "emmmm，看备案信息你就知道了=.= 本来想要zheng.xin的，但50万真买不起。。"
+                content: "emmmm，That is my full name!"
             }).then(function () {
                 botui.message.add({
                     delay: 1600,
-                    content: "那么，仔细看看我的博客吧？ ^_^"
+                    content: "那么，看看我的博客吧，别忘了留言哟！ ^_^"
                 })
             })
         } 
