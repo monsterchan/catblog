@@ -144,7 +144,7 @@ scheme: Gemini
 # ---------------------------------------------------------------
 # Sidebar Settings
 # ---------------------------------------------------------------
-  # 社交链接
+  # 社交链接wechatpay
   # 用法: `Key: permalink || icon`
   # Key 是最终显示的标签，`||` 前是永久链接,`||` 后面是标签的FontAwesome图标，默认glob
 # Social Links.
@@ -315,7 +315,7 @@ custom_logo:
 # Available value:
 #    normal | night | night eighties | night blue | night bright
 # https://github.com/chriskempson/tomorrow-theme
-highlight_theme: normal
+highlight_theme: night bright
 
 
 # ---------------------------------------------------------------
@@ -407,10 +407,10 @@ baidu_analytics: 70dcae86fb96dd626a86f71c0ce25957
 #duoshuo_shortname:
 
 # Disqus                                  # Disqus Disqus评论支持
-disqus:
-  enable: false
-  shortname:
-  count: true
+#disqus:
+#  enable: false
+#  shortname:
+#  count: true
 
 # Hypercomments
 #hypercomments_id:

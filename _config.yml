@@ -7,13 +7,13 @@ title: 陈   # 网站的标题，可能用在各种布局的页面中
 subtitle: You are my sunshine！          # 网站子标题
 #description: Just let me know you in my life!       # 网站的描述性
 keywords: chenkequan 陈科全          # 网站的关键字
-#author: 沐喵         # 网站的作者
-language: zh-Hans       # 网站采用语言，要跟/theme/***/languages/**.yml下的文件名对应。
+author: 沐喵         # 网站的作者
+language: zh-CN       # 网站采用语言，要跟/theme/***/languages/**.yml下的文件名对应。
 #timezone:              # 网站的时区
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: monsterchan.github.io      # 网站的url，如果不在域名根目录，应包含子目录，且root要设置为`/子目录/`
+url: http://monsterchan.github.io      # 网站的url，如果不在域名根目录，应包含子目录，且root要设置为`/子目录/`
 root: /                          # 网站的根目录
 permalink: :year/:month/:day/:title/             #文章永久链接的形成模版。每一篇文章都有唯一的url。
 permalink_defaults:              #文章永久链接中，各部分的默认值。
