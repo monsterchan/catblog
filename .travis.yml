@@ -23,7 +23,7 @@ install:
 #- npm install hexo-generator-sitemap --save
 #- npm install hexo-generator-baidu-sitemap --save
 #- npm install hexo-abbrlink --save
-- npm-check
+#  npm-check -u
 #-  npm install  next-util --save
 - npm install
 script:

@@ -4,6 +4,359 @@
     <list default="true" id="1cb1271d-e917-477c-8895-f321d9c8cf48" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.travis.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.travis.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/.bowerrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/.hound.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/.javascript_ignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/.jshintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/.stylintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/.travis.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/README.cn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/gulpfile.coffee" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/languages/de.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/languages/default.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/languages/en.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/languages/fr-FR.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/languages/id.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/languages/it.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/languages/ja.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/languages/ko.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/languages/nl-NL.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/languages/pt-BR.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/languages/pt.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/languages/ru.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/languages/vi.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/languages/zh-Hans.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/languages/zh-hk.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/languages/zh-tw.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_custom/header.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_custom/sidebar.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_layout.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_macro/post-collapse.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_macro/post-copyright.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_macro/post.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_macro/reward.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_macro/sidebar.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_macro/wechat-subscriber.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_partials/comments.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_partials/footer.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_partials/head.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_partials/head/custom-head.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_partials/head/external-fonts.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_partials/header.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_partials/page-header.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_partials/pagination.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_partials/search.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_partials/search/localsearch.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_partials/search/swiftype.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_partials/search/tinysou.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_partials/share/add-this.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_partials/share/baidushare.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_partials/share/duoshuo_share.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_partials/share/jiathis.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_scripts/boostrap.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_scripts/commons.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_scripts/pages/post-details.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_scripts/schemes/gemini.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_scripts/schemes/mist.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_scripts/schemes/muse.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_scripts/schemes/pisces.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_scripts/vendors.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_third-party/analytics/analytics-with-widget.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_third-party/analytics/application-insights.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_third-party/analytics/baidu-analytics.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_third-party/analytics/busuanzi-counter.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_third-party/analytics/cnzz-analytics.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_third-party/analytics/facebook-sdk.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_third-party/analytics/firestore.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_third-party/analytics/google-analytics.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_third-party/analytics/index.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_third-party/analytics/lean-analytics.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_third-party/analytics/tencent-analytics.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_third-party/analytics/tencent-mta.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_third-party/analytics/vkontakte-api.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_third-party/comments/changyan.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_third-party/comments/disqus.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_third-party/comments/duoshuo.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_third-party/comments/gitment.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_third-party/comments/hypercomments.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_third-party/comments/index.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_third-party/comments/livere.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_third-party/comments/valine.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_third-party/comments/youyan.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_third-party/duoshuo-hot-articles.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_third-party/exturl.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_third-party/mathjax.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_third-party/needsharebutton.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_third-party/rating.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_third-party/schedule.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_third-party/scroll-cookie.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_third-party/search/algolia-search/assets.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_third-party/search/algolia-search/dom.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_third-party/search/index.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_third-party/search/localsearch.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_third-party/search/tinysou.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/_third-party/seo/baidu-push.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/archive.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/category.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/index.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/page.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/post.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/schedule.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/layout/tag.swig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/scripts/merge-configs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/scripts/merge.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/scripts/tags/button.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/scripts/tags/center-quote.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/scripts/tags/exturl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/scripts/tags/full-image.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/scripts/tags/group-pictures.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/scripts/tags/label.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/scripts/tags/lazy-image.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/scripts/tags/note.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/scripts/tags/tabs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/back-to-top-sidebar.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/back-to-top.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/buttons.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/comments.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/components.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/footer/footer.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/header/header.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/header/headerband.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/header/menu.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/header/site-meta.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/header/site-nav.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/highlight/diff.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/highlight/highlight.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/highlight/theme.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/pages/archive.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/pages/categories.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/pages/pages.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/pages/post-detail.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/pages/schedule.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/pagination.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/post/post-button.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/post/post-collapse.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/post/post-copyright.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/post/post-eof.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/post/post-expand.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/post/post-gallery.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/post/post-meta.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/post/post-nav.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/post/post-reward.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/post/post-rtl.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/post/post-tags.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/post/post-title.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/post/post-type.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/post/post-widgets.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/post/post.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/sidebar/sidebar-author-links.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/sidebar/sidebar-author.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/sidebar/sidebar-blogroll.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/sidebar/sidebar-dimmer.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/sidebar/sidebar-feed-link.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/sidebar/sidebar-nav.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/sidebar/sidebar-toc.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/sidebar/sidebar-toggle.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/sidebar/sidebar.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/sidebar/site-state.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/tag-cloud.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/tags/blockquote-center.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/tags/exturl.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/tags/full-image.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/tags/group-pictures.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/tags/label.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/tags/note-modern.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/tags/note.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/tags/tabs.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/tags/tags.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/third-party/algolia-search.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/third-party/baidushare.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/third-party/busuanzi-counter.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/third-party/duoshuo.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/third-party/gitment.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/third-party/han.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/third-party/jiathis.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/third-party/localsearch.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/third-party/needsharebutton.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/third-party/third-party.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/outline/outline.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/scaffolding/base.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/scaffolding/helpers.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/scaffolding/mobile.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/scaffolding/normalize.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/scaffolding/scaffolding.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/scaffolding/tables.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_custom/custom.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_mixins/Gemini.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_mixins/Mist.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_mixins/Muse.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_mixins/Pisces.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_mixins/base.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_mixins/custom.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_schemes/Gemini/index.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_schemes/Mist/_base.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_schemes/Mist/_header.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_schemes/Mist/_logo.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_schemes/Mist/_menu.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_schemes/Mist/_posts-expanded.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_schemes/Mist/_search.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_schemes/Mist/index.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_schemes/Mist/outline/outline.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_schemes/Mist/sidebar/sidebar-blogroll.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_schemes/Muse/_layout.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_schemes/Muse/_logo.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_schemes/Muse/_menu.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_schemes/Muse/_search.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_schemes/Muse/index.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_schemes/Muse/sidebar/sidebar-blogroll.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_schemes/Pisces/_brand.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_schemes/Pisces/_layout.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_schemes/Pisces/_menu.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_schemes/Pisces/_posts.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_schemes/Pisces/_sidebar.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_schemes/Pisces/index.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_variables/Gemini.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_variables/Mist.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_variables/Muse.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_variables/Pisces.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_variables/base.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/_variables/custom.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/css/main.styl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/fonts/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/images/ALiPayQR.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/images/WeChanQR.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/images/algolia_logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/images/apple-touch-icon-next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/images/avatar.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/images/cc-by-nc-nd.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/images/cc-by-nc-sa.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/images/cc-by-nc.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/images/cc-by-nd.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/images/cc-by-sa.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/images/cc-by.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/images/cc-zero.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/images/favicon-16x16-next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/images/favicon-32x32-next.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/images/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/images/loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/images/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/images/placeholder.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/images/quote-l.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/images/quote-r.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/images/searchicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/images/sunshine.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/images/touxiang.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/images/wechatgongcode.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/js/src/affix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/js/src/algolia-search.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/js/src/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/js/src/exturl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/js/src/hook-duoshuo.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/js/src/js.cookie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/js/src/motion.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/js/src/post-details.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/js/src/schemes/pisces.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/js/src/scroll-cookie.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/js/src/scrollspy.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/js/src/utils.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/Han/dist/font/han-space.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/Han/dist/font/han-space.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/Han/dist/font/han.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/Han/dist/font/han.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/Han/dist/font/han.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/Han/dist/han.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/Han/dist/han.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/Han/dist/han.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/Han/dist/han.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/algolia-instant-search/instantsearch.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/algolia-instant-search/instantsearch.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/canvas-nest/canvas-nest.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/canvas-ribbon/canvas-ribbon.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/fancybox/source/blank.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/fancybox/source/fancybox_loading.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/fancybox/source/fancybox_loading@2x.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/fancybox/source/fancybox_overlay.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/fancybox/source/fancybox_sprite.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/fancybox/source/fancybox_sprite@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/fancybox/source/helpers/fancybox_buttons.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/fancybox/source/helpers/jquery.fancybox-buttons.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/fancybox/source/helpers/jquery.fancybox-buttons.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/fancybox/source/helpers/jquery.fancybox-media.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/fancybox/source/helpers/jquery.fancybox-thumbs.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/fancybox/source/helpers/jquery.fancybox-thumbs.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/fancybox/source/jquery.fancybox.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/fancybox/source/jquery.fancybox.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/fancybox/source/jquery.fancybox.pack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/fastclick/.bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/fastclick/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/fastclick/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/fastclick/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/fastclick/lib/fastclick.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/fastclick/lib/fastclick.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/font-awesome/.bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/font-awesome/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/font-awesome/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/font-awesome/HELP-US-OUT.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/font-awesome/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/font-awesome/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/font-awesome/css/font-awesome.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/font-awesome/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/font-awesome/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/font-awesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/font-awesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/font-awesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/font-awesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/font-awesome/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/jquery/.bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/jquery/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/jquery_lazyload/.bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/jquery_lazyload/CONTRIBUTING.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/jquery_lazyload/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/jquery_lazyload/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/jquery_lazyload/jquery.lazyload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/jquery_lazyload/jquery.scrollstop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/needsharebutton/font-embedded.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/needsharebutton/needsharebutton.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/needsharebutton/needsharebutton.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/pace/pace-theme-barber-shop.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/pace/pace-theme-big-counter.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/pace/pace-theme-bounce.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/pace/pace-theme-center-atom.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/pace/pace-theme-center-circle.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/pace/pace-theme-center-radar.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/pace/pace-theme-center-simple.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/pace/pace-theme-corner-indicator.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/pace/pace-theme-fill-left.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/pace/pace-theme-flash.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/pace/pace-theme-loading-bar.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/pace/pace-theme-mac-osx.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/pace/pace-theme-minimal.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/pace/pace.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/three/canvas_lines.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/three/canvas_sphere.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/three/three-waves.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/three/three.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/ua-parser-js/dist/ua-parser.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/ua-parser-js/dist/ua-parser.pack.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/velocity/.bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/velocity/bower.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/velocity/velocity.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/velocity/velocity.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/velocity/velocity.ui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/source/lib/velocity/velocity.ui.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/test/.jshintrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/test/helpers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/themes/next-5.1.4/test/intern.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -16,51 +369,6 @@
   </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
-  </component>
-  <component name="DockManager">
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-            <file pinned="false" current-in-tab="false">
-              <entry file="file://E:/webSite/themes/_config.yml">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="9870">
-                    <caret line="329" column="62" selection-start-line="329" selection-start-column="62" selection-end-line="329" selection-end-column="62" />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-            <file pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/themes/next-5.1.4/_config.yml">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="479">
-                    <caret line="612" column="23" selection-start-line="612" selection-end-line="613" />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
-    <window id="1">
-      <content type="file-editors">
-        <state>
-          <leaf>
-            <file pinned="false" current-in-tab="true">
-              <entry file="file://$PROJECT_DIR$/themes/next-5.1.4/layout/_third-party/comments/valine.swig">
-                <provider selected="true" editor-type-id="text-editor">
-                  <state relative-caret-position="300">
-                    <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-                  </state>
-                </provider>
-              </entry>
-            </file>
-          </leaf>
-        </state>
-      </content>
-    </window>
   </component>
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
@@ -95,81 +403,64 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my.bat">
+        <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="14" />
+            <state relative-caret-position="30">
+              <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/.travis.yml">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="279">
-              <caret line="25" column="11" lean-forward="true" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+            <state relative-caret-position="522">
+              <caret line="155" column="15" selection-start-line="155" selection-start-column="15" selection-end-line="155" selection-end-column="15" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/next/layout/_third-party/comments/valine.swig">
+        <entry file="file://$PROJECT_DIR$/_admin-config.yml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1020">
+              <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/my.bat">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/next-5.1.4/layout/_third-party/comments/valine.swig">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="5" column="24" selection-end-line="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/next/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="697" column="16" selection-start-line="697" selection-start-column="16" selection-end-line="697" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/themes/next/scripts/filters/comment/valine.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/.deploy_git/.nojekyll.txt">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>baidu_analytics</find>
-      <find>page</find>
-      <find>John Doe</find>
-      <find>gitalk</find>
-      <find>footer</find>
-      <find>wechatpay</find>
-      <find>busuanz</find>
-      <find>site-meta</find>
-      <find>.site-subtitle</find>
       <find>tag</find>
       <find>.posts-expand .post-meta</find>
       <find>.headband</find>
@@ -183,14 +474,23 @@
       <find>baidu</find>
       <find>github</find>
       <find>valine-comments</find>
-      <find>loadComments</find>
       <find>NexT.utils.loadComments</find>
       <find>#valine-comments</find>
       <find>valine</find>
       <find>baid</find>
       <find>https://hm.baidu.com</find>
       <find>val</find>
+      <find>loadComments</find>
+      <find>next.utils.lo</find>
       <find>ba</find>
+      <find>load</find>
+      <find>v</find>
+      <find>vendors.</find>
+      <find>NexT</find>
+      <find>vali</find>
+      <find>vend</find>
+      <find>ven</find>
+      <find>vendor</find>
     </findStrings>
     <dirStrings>
       <dir>D:\JavaWorkSpace\catblog</dir>
@@ -244,7 +544,6 @@
         <option value="$PROJECT_DIR$/themes/next/scripts/filters/comment/disqusjs.js" />
         <option value="$PROJECT_DIR$/themes/next/scripts/filters/comment/changyan.js" />
         <option value="$PROJECT_DIR$/themes/next/scripts/filters/comment/gitalk.js" />
-        <option value="$PROJECT_DIR$/_config.yml" />
         <option value="$PROJECT_DIR$/themes/next-5.1.4/_config.yml" />
         <option value="$PROJECT_DIR$/themes/next/source/css/_common/components/post/post-gallery.styl" />
         <option value="$PROJECT_DIR$/themes/next/source/css/_common/components/post/post-header.styl" />
@@ -252,10 +551,11 @@
         <option value="$PROJECT_DIR$/themes/next/source/css/_common/outline/header/headerband.styl" />
         <option value="$PROJECT_DIR$/themes/next/source/css/_common/outline/header/site-meta.styl" />
         <option value="$PROJECT_DIR$/themes/next/source/css/_schemes/Pisces/_header.styl" />
-        <option value="$PROJECT_DIR$/themes/next/layout/_third-party/comments/valine.swig" />
-        <option value="$PROJECT_DIR$/themes/next/_config.yml" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/.travis.yml" />
+        <option value="$PROJECT_DIR$/themes/next/layout/_third-party/comments/valine.swig" />
+        <option value="$PROJECT_DIR$/themes/next/_config.yml" />
+        <option value="$PROJECT_DIR$/_config.yml" />
       </list>
     </option>
   </component>
@@ -266,10 +566,9 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="538" />
-    <option name="y" value="7" />
+    <option name="x" value="295" />
     <option name="width" value="1686" />
-    <option name="height" value="1052" />
+    <option name="height" value="1014" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -277,6 +576,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -284,12 +584,16 @@
               <item name="catblog" type="b2602c69:ProjectViewProjectNode" />
               <item name="catblog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
+            <path>
+              <item name="catblog" type="b2602c69:ProjectViewProjectNode" />
+              <item name="catblog" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="themes" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -301,29 +605,29 @@
     <property name="editor.config.ad.shown" value="true" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
     <property name="go.import.settings.migrated" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/themes/next/source/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/themes/next/source/lib" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15429688" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\JavaWorkSpace\catblog\themes\next\source\images" />
-      <recent name="D:\JavaWorkSpace\catblog\themes" />
-      <recent name="D:\JavaWorkSpace\catblog\live2d_models" />
-      <recent name="D:\JavaWorkSpace\catblog\live2d_models\lib" />
-      <recent name="D:\JavaWorkSpace\catblog\source\_posts" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JavaWorkSpace\catblog\themes\next\source\lib" />
       <recent name="D:\JavaWorkSpace\catblog\themes\next\source\images" />
       <recent name="D:\JavaWorkSpace\catblog\themes" />
       <recent name="D:\JavaWorkSpace\catblog\source\schedule" />
       <recent name="D:\JavaWorkSpace\catblog\source\categories" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JavaWorkSpace\catblog\themes\next\source" />
+      <recent name="D:\JavaWorkSpace\catblog\themes\next\source\images" />
+      <recent name="D:\JavaWorkSpace\catblog\themes" />
       <recent name="D:\JavaWorkSpace\catblog\live2d_models" />
+      <recent name="D:\JavaWorkSpace\catblog\live2d_models\lib" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -456,7 +760,11 @@
       <workItem from="1579065839608" duration="3870000" />
       <workItem from="1579073269990" duration="15152000" />
       <workItem from="1579134677333" duration="9622000" />
-      <workItem from="1579240959832" duration="15182000" />
+      <workItem from="1579240959832" duration="24396000" />
+      <workItem from="1579318644990" duration="1264000" />
+      <workItem from="1579395713838" duration="3827000" />
+      <workItem from="1579400880104" duration="4764000" />
+      <workItem from="1579409273521" duration="1419000" />
     </task>
     <task id="LOCAL-00001" summary="idea上第一次提交">
       <created>1562170339161</created>
@@ -490,7 +798,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="282241000" />
+    <option name="totallyTimeSpent" value="302729000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -502,10 +810,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="538" y="7" width="1686" height="1052" extended-state="0" />
-    <editor active="true" />
+    <frame x="295" y="0" width="1686" height="1014" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21279213" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22263223" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -518,14 +825,14 @@
       <window_info id="Learn" order="10" />
       <window_info id="设计师" order="11" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3280899" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.4730849" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.35032538" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3280899" />
       <window_info anchor="bottom" id="DB Execution Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.47167757" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.28181818" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="11" weight="0.3253796" />
@@ -602,92 +909,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/themes/next-5.1.4/layout/_partials/header.swig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="385">
-          <caret line="47" column="32" selection-start-line="47" selection-start-column="28" selection-end-line="47" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/music/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="300">
-            <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="10" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/source/video/index.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="360">
-            <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/next-5.1.4/layout/_layout.swig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="30" column="11" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/node_modules/js-yaml/lib/js-yaml/loader.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="166" column="9" selection-start-line="166" selection-start-column="9" selection-end-line="166" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/next/docs/ru/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/next/docs/ru/UPDATE-FROM-5.1.X.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/next/scripts/filters/default-injects.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-319">
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/next/scripts/filters/locals.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/next/scripts/filters/front-matter.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-480">
-          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/next/scripts/filters/comment/changyan.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="690">
@@ -702,13 +923,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/next-5.1.4/source/css/_schemes/Mist/_header.styl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/next-5.1.4/source/css/_schemes/Mist/_header.styl" />
     <entry file="file://$PROJECT_DIR$/themes/next/scripts/filters/comment/disqus.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="750">
@@ -733,13 +948,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/header/site-meta.styl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/header/site-meta.styl" />
     <entry file="file://E:/webSite/themes/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="9870">
@@ -766,27 +975,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/next-5.1.4/layout/_macro/post.swig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="221" column="88" selection-start-line="221" selection-start-column="88" selection-end-line="221" selection-end-column="88" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/next-5.1.4/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="479">
-          <caret line="612" column="23" selection-start-line="612" selection-end-line="613" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="47" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/next-5.1.4/layout/_macro/post.swig" />
     <entry file="file://$PROJECT_DIR$/themes/next/source/css/main.styl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="550">
@@ -841,13 +1030,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/post/post-meta.styl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="21" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/next-5.1.4/source/css/_common/components/post/post-meta.styl" />
     <entry file="file://$PROJECT_DIR$/themes/next/source/css/_schemes/Pisces/_header.styl">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="345">
@@ -890,13 +1073,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/next-5.1.4/layout/_third-party/comments/valine.swig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="24" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/themes/next/layout/_third-party/analytics/baidu-analytics.swig">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
@@ -904,37 +1080,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/themes/next/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="697" column="16" selection-start-line="697" selection-start-column="16" selection-end-line="697" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/next/scripts/filters/comment/valine.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/themes/next/layout/_third-party/comments/valine.swig">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="45" selection-start-line="7" selection-start-column="45" selection-end-line="7" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package-lock.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-990" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/my.bat">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties">
@@ -954,17 +1102,111 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
+    <entry file="file://$PROJECT_DIR$/scaffolds/page.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/next-5.1.4/source/js/src/utils.js" />
+    <entry file="file://$PROJECT_DIR$/public/assets/js/APlayer.min.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="44" column="5" selection-start-line="44" selection-start-column="5" selection-end-line="44" selection-end-column="14" />
+        <state>
+          <caret column="43026" selection-start-column="43026" selection-end-column="43026" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/next-5.1.4/_config.yml" />
+    <entry file="file://$PROJECT_DIR$/themes/next/source/js/utils.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11250">
+          <caret line="375" selection-start-line="375" selection-end-line="375" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/next-5.1.4/layout/_scripts/vendors.swig" />
+    <entry file="file://$PROJECT_DIR$/themes/next-5.1.4/layout/_third-party/comments/valine.swig" />
+    <entry file="file://$PROJECT_DIR$/themes/next/source/lib/algolia-instant-search/instantsearch.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/next/layout/_third-party/comments/valine.swig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/next-util/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="25" column="11" lean-forward="true" selection-start-line="25" selection-start-column="11" selection-end-line="25" selection-end-column="11" />
+        <state relative-caret-position="30">
+          <caret line="22" column="44" selection-start-line="22" selection-start-column="44" selection-end-line="22" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_admin-config.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/next/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27990">
+          <caret line="933" column="2" selection-start-line="933" selection-start-column="2" selection-end-line="933" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/my.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.deploy_git/.nojekyll.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/next/scripts/filters/comment/valine.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="82" selection-start-line="10" selection-start-column="82" selection-end-line="10" selection-end-column="82" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/themes/next/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="155" column="15" selection-start-line="155" selection-start-column="15" selection-end-line="155" selection-end-column="15" />
         </state>
       </provider>
     </entry>
